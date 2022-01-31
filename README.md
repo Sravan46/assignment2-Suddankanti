@@ -51,6 +51,8 @@ Cricket, Badminton, Basketball and Table Tennis are the sports which I would lik
 
 --------------------------------------------
 
+# Dynamic Programming
+
 >Dynamic Programming (commonly referred to as DP) is an algorithmic technique for solving a problem by recursively breaking it down into simpler subproblems and using the fact that the optimal solution to the overall problem depends upon the optimal solution to it's individual subproblems.
 
 More information on Dynamic Programming (https://www.interviewbit.com/courses/programming/topics/dynamic-programming)
