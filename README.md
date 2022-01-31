@@ -26,6 +26,8 @@ Destination will be on the right
 * COCONUT HALVA
 * CHICKEN MAGGIE
 
+[myself](https://github.com/Sravan46/assignment2-Suddankanti/blob/bf592cb9aca583311ff98f8a62e7a20d78efcaa7/AboutMe.md)
+
 -----------------------------------------------
 
 # Sports
